@@ -1,0 +1,10 @@
+.vdodiv{
+    display: flex;
+}
+
+.prediv{
+    display: flex;
+    /* height: 100px;
+    width: 500px; */
+    padding: 100px;
+}
